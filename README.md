@@ -2,7 +2,7 @@
 
 A **modern, high-performance e-commerce platform** with **integrated payment solutions (M-Pesa, PayPal, etc.)**.  
 
-### 🔥 [Live Preview](https://your-live-url-here/)  
+### 🔥 [Live Preview](https://main/)  
 
 [![Soko Wholesale](src/assets/images/demo.gif)](https://your-live-url-here/)
 
